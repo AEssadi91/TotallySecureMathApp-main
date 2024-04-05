@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^12.4.1",
+    "react-native-encrypted-storage": "^4.0.3"
+  }
+}
